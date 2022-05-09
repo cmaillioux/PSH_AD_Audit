@@ -5,7 +5,7 @@
 
 ## Getting Started
 ### Description
-A PSH script to gather information in order to evaluate AD security and, hopefully (one day) build attack path approach described by CERT-FR/ANSSI
+A PSH script to gather information in order to evaluate AD security based on the CERT-FR/ANSSI standard. Controls may be completed on further releases. 
 
 ### Prerequisite
 * Having an administrative access to PowerShell on the Domain Controller or,
@@ -16,7 +16,7 @@ No installation required for this PowerShellScript.
 
 ## Manual
 Execute this Powershell script on the Domain Controller you which to Audit, or use RSAT module, or use Powershell remoting capabilities.
-Script results are in a file called : 
+Script results are placed in a folder called "($currentpath)\transfert_audit\". 
 
 ## Authors
 The author is Clément Maillioux. 
