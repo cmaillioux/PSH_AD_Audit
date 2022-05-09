@@ -15,7 +15,8 @@ A PSH script to gather information in order to evaluate AD security and, hopeful
 No installation required for this PowerShellScript.
 
 ## Manual
-Writing...
+Execute this Powershell script on the Domain Controller you which to Audit, or use RSAT module, or use Powershell remoting capabilities.
+Script results are in a file called : 
 
 ## Authors
 The author is Clément Maillioux. 
