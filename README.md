@@ -7,6 +7,9 @@
 ### Description
 A PSH script to gather information in order to evaluate AD security based on the CERT-FR/ANSSI standard. Controls may be completed on further releases. 
 
+### Link
+Link to the tool : https://github.com/cmaillioux/PSH_AD_Audit
+
 ### Prerequisite
 * Having an administrative access to PowerShell on the Domain Controller or,
 * Using as a user (less information).
